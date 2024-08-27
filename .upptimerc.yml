@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: rookoo-ai # Your GitHub organization or username, where this repository lives
+repo: statuspage # The name of this repository
 
 sites:
   - name: Application
@@ -16,8 +16,8 @@ status-website:
   cname: status.rookoo.ai
   # baseUrl: /your-repo-name
   logoUrl: https://www.rookoo.ai/logo.png
-  name: Rookoo.ai Status Page
-  introTitle: "Rookoo.ai simplifies digital interactions with advanced AI solutions, enabling seamless and efficient communication. Our platform is designed to make managing digital interactions easy, empowering businesses to operate smoothly and effectively."
+  name: "" 
+  introTitle: "Status Page"
   introMessage: "This page provides real-time updates on the status of Rookoo.ai services. Check here for information on incidents, scheduled maintenance, and overall system performance."
   navbar:
     - title: Status
