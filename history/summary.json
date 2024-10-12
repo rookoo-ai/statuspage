@@ -4,10 +4,10 @@
     "url": "https://alpha.rookoo.ai/",
     "icon": "https://icons.duckduckgo.com/ip3/alpha.rookoo.ai.ico",
     "slug": "application",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 497,
@@ -15,17 +15,19 @@
     "timeWeek": 469,
     "timeMonth": 515,
     "timeYear": 497,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-12": 1
+    }
   },
   {
     "name": "API",
     "url": "https://alpha.rookoo.ai/api",
     "icon": "https://icons.duckduckgo.com/ip3/alpha.rookoo.ai.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
@@ -33,14 +35,16 @@
     "timeWeek": 112,
     "timeMonth": 126,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-12": 1
+    }
   },
   {
     "name": "Corporate Website",
     "url": "https://alpha.rookoo.ai/",
     "icon": "https://icons.duckduckgo.com/ip3/alpha.rookoo.ai.ico",
     "slug": "corporate-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 134,
     "timeMonth": 147,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-12": 0
+    }
   }
 ]
