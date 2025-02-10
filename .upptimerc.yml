@@ -4,11 +4,11 @@ repo: statuspage # The name of this repository
 
 sites:
   - name: Application
-    url: https://alpha.rookoo.ai/
+    url: https://app.rookoo.ai/
   - name: API
-    url: https://alpha.rookoo.ai/api
+    url: https://app.rookoo.ai/api
   - name: Corporate Website
-    url: https://alpha.rookoo.ai/
+    url: https://app.rookoo.ai/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,7 +16,7 @@ status-website:
   cname: status.rookoo.ai
   # baseUrl: /your-repo-name
   logoUrl: https://www.rookoo.ai/logo.png
-  name: "" 
+  name: ""
   introTitle: "Status Page"
   introMessage: "This page provides real-time updates on the status of Rookoo.ai services. Check here for information on incidents, scheduled maintenance, and overall system performance."
   navbar:
@@ -24,6 +24,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/rookoo-ai/
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
