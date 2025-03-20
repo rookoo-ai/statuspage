@@ -4,7 +4,7 @@ repo: statuspage # The name of this repository
 
 sites:
   - name: Application
-    url: https://app.rookoo.ai/
+    url: https://app.rookoo.ai/api
   - name: API
     url: https://app.rookoo.ai/api
   - name: Corporate Website
