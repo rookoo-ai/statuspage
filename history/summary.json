@@ -47,19 +47,19 @@
     "url": "https://rookoo.ai/",
     "icon": "https://icons.duckduckgo.com/ip3/rookoo.ai.ico",
     "slug": "corporate-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "95.50%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
-    "time": 768,
-    "timeDay": 6034,
-    "timeWeek": 3472,
-    "timeMonth": 1840,
-    "timeYear": 885,
+    "time": 766,
+    "timeDay": 5330,
+    "timeWeek": 3290,
+    "timeMonth": 1819,
+    "timeYear": 882,
     "dailyMinutesDown": {
-      "2025-10-20": 29
+      "2025-10-20": 65
     }
   }
 ]
