@@ -1,7 +1,7 @@
 url: https://app.rookoo.ai/api
-status: up
-code: 200
-responseTime: 214
-lastUpdated: 2025-11-18T12:17:58.460Z
+status: down
+code: 500
+responseTime: 12
+lastUpdated: 2025-11-18T13:00:15.665Z
 startTime: 2024-08-27T17:26:11.471Z
 generator: Upptime <https://github.com/upptime/upptime>
